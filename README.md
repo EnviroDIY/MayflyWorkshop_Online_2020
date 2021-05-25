@@ -1,8 +1,8 @@
-##Sketches used in the 2020-2021 online EnviroDIY workshops, using the Mayfly 0.5b version board.
+## Sketches used in the 2020-2021 online EnviroDIY workshops, using the Mayfly 0.5b version board.
 
 Sketches 1-3 require no additional hardware or accessories.  The rest of the sketches require the following items:
 
-###Grove AHT20 digital humidity and temperature sensor:
+### Grove AHT20 digital humidity and temperature sensor:
 
 https://www.seeedstudio.com/Grove-AHT20-I2C-Industrial-grade-temperature-and-humidity-sensor-p-4497.html<br/>
 https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/101990644/11681294<br/>
@@ -12,13 +12,13 @@ https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/101990644/116
 
 https://www.seeedstudio.com/One-Wire-Temperature-Sensor-p-1235.html
 
-###DFRobot ESP8266 Wifi Bee:
+### DFRobot ESP8266 Wifi Bee:
 
 https://www.dfrobot.com/product-1279.html<br/>
 https://www.digikey.com/en/products/detail/dfrobot/TEL0092/6588468
 
 
-###Libraries:
+### Libraries:
 
 Sketches 3-8 require the EnviroDIY Libraries zip file, available here:
 https://github.com/EnviroDIY/Libraries <br/>
