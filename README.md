@@ -8,7 +8,7 @@ https://www.seeedstudio.com/Grove-AHT20-I2C-Industrial-grade-temperature-and-hum
 https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/101990644/11681294<br/>
 (also requires a Grove cable which is not included with the AHT20 but is included in the EnviroDIY Mayfly Starter Kit, or you can purchase Grove cables of different lengths separately from a wide variety of vendors)
 
-###Grove DS18B20 waterproof temperature sensor:
+### Grove DS18B20 waterproof temperature sensor:
 
 https://www.seeedstudio.com/One-Wire-Temperature-Sensor-p-1235.html
 
