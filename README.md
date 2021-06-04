@@ -24,6 +24,6 @@ Sketches 3-8 require the EnviroDIY Libraries zip file, available here:
 https://github.com/EnviroDIY/Libraries <br/>
 Follow the instructions in the Readme to download the zip file and copy the folders into you MyDocuments/Adruino/libraries directory,
 
-In addition, the SHT20 sketches require a library available here:
+In addition, the AHT20 sketches require a library available here:
 https://github.com/adafruit/Adafruit_AHTX0 <br/>
 Or simply use the Arduino IDE's Library Manager to install the library by searchign for "Adafruit AHTX0" and click Install.
